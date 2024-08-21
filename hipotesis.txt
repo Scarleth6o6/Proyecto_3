@@ -1,0 +1,16 @@
+Hipótesis
+Para este proyecto, recopilamos los requisitos y desarrollamos una hipótesis que debe ser confirmada o negada.
+
+Al probar hipótesis, es importante tener en cuenta que pueden aceptarse por completo, aceptarse parcialmente, rechazarse parcialmente o rechazarse por completo.
+
+Cuando una hipótesis se acepta por completo, significa que los resultados de la prueba respaldan sin ambigüedades la declaración hecha sobre la población.
+
+Si se acepta solo parcialmente, significa que los resultados respaldan la declaración en cierta medida, pero no lo suficiente como para aceptarla por completo.
+
+Por el contrario, si una hipótesis se rechaza por completo, significa que los resultados de la prueba no respaldan la declaración hecha sobre la población.
+
+Por último, una hipótesis también puede ser rechazada parcialmente si los datos indican que es falsa, pero no puedes rechazarla por completo. Cuando se interpretan los resultados de una prueba de hipótesis, es importante tener en cuenta estas diferentes posibilidades.
+
+Aquí está nuestra hipótesis para aceptar o rechazar:
+
+La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad.
